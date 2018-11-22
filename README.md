@@ -1,7 +1,7 @@
 # the-Ulam-Spiral
 This application draws the Ulam Spiral, which indicates the regularity of the primes.
 
-For more information, please, visit the following website: <a href='https://en.wikipedia.org/wiki/Ulam_spiral' target='_blank'>Check out the spiral</a>
+For more information, please, visit the following website: <a href='https://en.wikipedia.org/wiki/Ulam_spiral'>Check out the spiral</a>
 or just type in the phrase 'Ulam spiral' into the search engine.
 
 //////////////////////
